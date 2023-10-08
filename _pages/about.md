@@ -15,7 +15,7 @@ redirect_from:
  Currently I'm working on **object detection and semantic segmentation based on self-supervised learning** with my Undergraduate supervisor **Dr.Junpeng Zhang**. In the near future, I will 
  do research in **computer graphics and 3D vision** with my Master supervisor **Dr.Xuejin Chen** at University of Science and Technology of China. 
 
- If you have any things or questions to discuss, feel free to drop me an email **jiahaoyan@stu.xidian.edu.cn**.
+ If you have any things or questions to discuss, feel free to drop me an email **jiahaoyan@stu.xidian.edu.cn**
 
 ## 👨‍🎓 Education
 
@@ -23,9 +23,9 @@ redirect_from:
 
 ## 📰 News
   
- ● *2023.09*, Rank first (1/161) in the comprehensive assessment major in the third year, and win the **National Scholarship for undergraduates** in the 2022-2023 academic year!  
- ● *2023.05*, Win the Finalist prize in the American college students Mathematical contest in Modeling with my teammates Yubiao Wang and Ke Zhang, congratulations to us!  
- ● *2022.09*, Rank eighth (8/165) in the comprehensive assessment major in the second year,and win the **first-class scholarship** in the 2021-2022 academic year.  
+ ● *2023.09*, Rank first (1/161) in the comprehensive assessment major in the third year, and win the **National Scholarship for undergraduates** in the 2022-2023 academic year!   
+ ● *2023.05*, Win the Finalist prize in the American college students Mathematical contest in Modeling with my teammates Yubiao Wang and Ke Zhang, congratulations to us!   
+ ● *2022.09*, Rank eighth (8/165) in the comprehensive assessment major in the second year,and win the **first-class scholarship** in the 2021-2022 academic year.   
  ● *2022.08*, Win the national third prize of the national Statistical Modeling Contest for College students.
  
 ## 📝 Publications
