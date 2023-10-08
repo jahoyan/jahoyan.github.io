@@ -8,10 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-## ✅ Jiahao Yan (闫家浩)
+## 🧑 Personal profile
 
-## 📚 Education
+## 👨‍🎓 Education
+
+·2020.09 - 2024.07 (now), Undergraduate, Xidian University, Xi'an.
+
+## 📝 Publications
 
 ## 💻 Projects
 
-## 🖊️ Research Interests
+## 🌞 Professional Services
+
+## 🏅 Honors and Awards
+
+## 👨‍💻 Internships
+
+
