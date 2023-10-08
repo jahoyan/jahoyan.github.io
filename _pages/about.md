@@ -32,7 +32,7 @@ redirect_from:
 
 ## 💻 Projects
 
- ● *2022.01 - 2023.06*, Preside over the **national college student innovation and entrepreneurship training program** Intelligent picking system for assisting farmers based on deep  
+ ● *2022.01 - 2023.06*, Preside over the **national college student innovation and entrepreneurship training program** Intelligent picking system for assisting farmers based on deep
     learning with supervisor **Dr.Biao Hou**.
 
 ## 🌞 Professional Services
