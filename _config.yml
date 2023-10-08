@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiahao Yan (闫家浩)"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at Xidian University. Focusing on trustworthy weakly supervised learning."
+  bio              : "Undergraduate student at Xidian University. Focusing on self-supervised learning."
   location         : "Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
