@@ -20,7 +20,7 @@ redirect_from:
 
 ## 👨‍🎓 Education
 
- ● *2020.09 - 2024.07 (now)*, Undergraduate, Xidian University, Xi'an. 
+* *2020.09 - 2024.07 (now)*, Undergraduate, Xidian University, Xi'an. 
 
 ## 📰 News
   
