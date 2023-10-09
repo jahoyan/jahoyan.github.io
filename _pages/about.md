@@ -13,7 +13,7 @@ redirect_from:
  I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. 
 
  Currently I'm working on **object detection and semantic segmentation based on self-supervised learning** with my Undergraduate supervisor **[Dr.Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
- do research in **computer graphics and 3D vision** with my Master supervisor **[Dr.Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
+ do research in **computer graphics and 3D vision** with my Master supervisor **[Prof.Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
 
  If you have any things or questions to discuss, feel free to drop me an email.   
  **Email:<jiahaoyan@stu.xidian.edu.cn>,  <jiahaoyan0913@gmail.com>**
@@ -34,7 +34,7 @@ redirect_from:
 ## 💻 Projects
 
  * *2022.01 - 2023.06*, Preside over the **national college student innovation and entrepreneurship training program** Intelligent picking system for assisting farmers based on deep
-    learning with supervisor **[Dr.Biao Hou](https://web.xidian.edu.cn/houbiao/)**.
+    learning with supervisor **[Prof.Biao Hou](https://web.xidian.edu.cn/houbiao/)**.
 
 ## 🌞 Professional Services
 
