@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yan-jh's Homepage"
+title: "Yan-jh's Homepage    ***路漫漫其修远兮， 吾将上下而求索***"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
