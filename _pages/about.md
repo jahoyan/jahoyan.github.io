@@ -40,6 +40,15 @@ redirect_from:
 
 ## 🏅 Honors and Awards
 
+ ● *2023.09*, The **National Scholarship for undergraduates** in the 2022-2023 academic year.  
+ ● *2023.08*, The Provincial second prize of the national Statistical Modeling Contest for College students.  
+ ● *2023.05*, The Finalist prize in the American college students Mathematical contest in Modeling.  
+ ● *2023.01*, The Provincial third prize of the National Mathematics Competition for College students.  
+ ● *2022.12*, The Provincial first prize of the National College Students Mathematical Contest in Modeling.   
+ ● *2022.09*, The **first-class scholarship of Xidian University** and **outstanding student of Xidian University** in the 2021-2022 academic year.   
+ ● *2022.08*, The national third prize of the national Statistical Modeling Contest for College students.  
+ ● *2021.09*, The **third-class scholarship of Xidian University** in the 2020-2021 academic year.  
+ 
 ## 👨‍💻 Internships
 
 
