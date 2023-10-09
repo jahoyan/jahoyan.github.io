@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Academic Pages"
+title: "Yan-jh's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
