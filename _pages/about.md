@@ -11,7 +11,7 @@ redirect_from:
 
 ## 🧑 Personal profile
 
- I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. 
+ I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. My research interests are **machine learning, data mining, computer vision and computer graphics**.
 
  Currently I'm working on **object detection and semantic segmentation based on self-supervised learning** with my Undergraduate supervisor **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
  do research in **computer graphics and 3D vision** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
