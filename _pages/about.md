@@ -11,9 +11,9 @@ redirect_from:
 
 ## 🧑 Personal profile
 
- I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. My research interests are **machine learning, data mining, computer vision and computer graphics**.
+ I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. My research interests are **machine learning, computer graphics and computer vision especially 3D vision**.
 
- Currently I'm working on **object detection and semantic segmentation based on self-supervised learning** with my Undergraduate supervisor **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
+ Currently I'm working on **Remote sensing image object detection and segmentation** with my Undergraduate supervisor **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
  do research in **computer graphics and 3D vision** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
 
  If you are interested in discussing with me, feel free to drop me an email.   
@@ -34,8 +34,7 @@ redirect_from:
 
 ## 💻 Projects
 
- * *2022.01 - 2023.06*, Preside over the **national college student innovation and entrepreneurship training program** Intelligent picking system for assisting farmers based on deep
-    learning with supervisor **[Prof. Biao Hou](https://web.xidian.edu.cn/houbiao/)**.
+ * *2022.01 - 2023.06*, Preside over the **national college student innovation and entrepreneurship training program** Intelligent picking system for assisting farmers based on deep learning supervised by **[Prof. Biao Hou](https://web.xidian.edu.cn/houbiao/)**.
 
 ## 🌞 Professional Services
 
