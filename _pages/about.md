@@ -24,8 +24,9 @@ redirect_from:
 * *2020.09 - 2024.07 (now)*, Undergraduate, Xidian University, Xi'an, China. 
 
 ## 📰 News
-  
- * *2023.09*, Rank first (1/161) in the comprehensive assessment major in the third year, and win the **National Scholarship for undergraduates** in the 2022-2023 academic year!    
+
+ * *2023.12*, win the **National Scholarship for undergraduates,Goodix Technology Scholarship for undergraduates and Outstanding student model honorary title of Xidian University** in the 2022-2023 academic year!     
+ * *2023.09*, Rank first (1/161) in the comprehensive assessment major in the third academic year！   
  * *2023.05*, Win the Finalist prize in the American college students Mathematical contest in Modeling with my teammates Yubiao Wang and Ke Zhang, congratulations to us!       
  * *2022.08*, Win the national third prize of the national Statistical Modeling Contest for College students.
  
@@ -43,7 +44,9 @@ redirect_from:
 
 ## 🏅 Honors and Awards
 
- * *2023.09*, The **National Scholarship for undergraduates** in the 2022-2023 academic year.  
+ * *2023.12*, The **Goodix Technology Scholarship for undergraduates** in the 2022-2023 academic year.
+ * *2023.12*, The **outstanding student model of Xidian University** in the 2022-2023 academic year.  
+ * *2023.12*, The **National Scholarship for undergraduates** in the 2022-2023 academic year.  
  * *2023.08*, The Provincial second prize of the national Statistical Modeling Contest for College students.  
  * *2023.05*, The Finalist prize in the American college students Mathematical contest in Modeling.  
  * *2023.01*, The Provincial third prize of the National Mathematics Competition for College students.  
