@@ -12,7 +12,7 @@ redirect_from:
 
  I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. My research interests are **machine learning, multimedia computing and computer vision especially 3D vision**.
 
- Currently I'm working on **Remote sensing image segmentaton** with my Undergraduate supervisor **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
+ Currently I'm working on **Remote sensing image segmentation** with my Undergraduate supervisor **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
  do research in **3D vision** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
 
  If you are interested in discussing with me, feel free to drop me an email.   
