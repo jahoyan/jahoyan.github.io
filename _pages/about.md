@@ -56,6 +56,6 @@ redirect_from:
  
 ## 👨‍💻 Internships
 
- * *2023.4-*, **IPIU Lab,Xidian University.** The research direction is **remote sensing image processing.** My mentor is **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)**.
+ * *2023.4 -*, **IPIU Lab,Xidian University.** The research direction is **remote sensing image processing.** My mentor is **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)**.
 
 
