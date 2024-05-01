@@ -20,7 +20,12 @@ redirect_from:
 
 ## 👨‍🎓 Education
 
-* *2020.09 - 2024.06 (now)*, Undergraduate, Xidian University, Xi'an, China. 
+* *2020.09 - 2024.06 (now)*, Undergraduate, Xidian University, Xi'an, China.
+
+  
+## 👨‍💻 Internships
+
+ * *2023.4 -* , **IPIU Lab,Xidian University.** The research direction is **remote sensing image processing.** My mentor is **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)**.
 
 ## 📰 News
 
@@ -53,9 +58,6 @@ redirect_from:
  * *2022.09*, The **first-class scholarship of Xidian University** and **outstanding student of Xidian University** in the 2021-2022 academic year.   
  * *2022.08*, The national third prize of the national Statistical Modeling Contest for College students.  
  * *2021.09*, The **third-class scholarship of Xidian University** in the 2020-2021 academic year.  
- 
-## 👨‍💻 Internships
 
- * *2023.4 -* , **IPIU Lab,Xidian University.** The research direction is **remote sensing image processing.** My mentor is **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)**.
 
 
