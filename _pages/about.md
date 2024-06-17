@@ -16,7 +16,7 @@ redirect_from:
  do research in **3D vision** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
 
  If you are interested in discussing with me, feel free to drop me an email.   
- **Email:<jiahaoyan@stu.xidian.edu.cn>,  <jiahaoyan0913@gmail.com>**
+ **Email:<jiahaoyan@mail.ustc.edu.cn>， <jiahaoyan@stu.xidian.edu.cn>**
 
 ## 👨‍🎓 Education
 
