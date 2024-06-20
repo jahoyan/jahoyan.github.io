@@ -10,22 +10,21 @@ redirect_from:
 
 ## 🧑 Personal profile
 
- I'm currently a forth-year undergraduate in School of Artifitial Intelligence at Xidian University. My research interests are **machine learning, multimedia computing and computer vision especially 3D vision**.
+I'm currently pursuing the M.E. degree at University of Science and Technology of China My research interests are **machine learning, and computer vision especially 3D vision**.
 
- Currently I'm working on **Remote sensing image segmentation** with my Undergraduate supervisor **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)** at Xidian University. In the near future, I will 
- do research in **3D vision** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
+ Currently I'm working on **Large-scale 3D scene reconstruction** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
 
  If you are interested in discussing with me, feel free to drop me an email.   
- **Email:<jiahaoyan@mail.ustc.edu.cn>， <jiahaoyan@stu.xidian.edu.cn>**
+ **Email:<jiahaoyan@mail.ustc.edu.cn>**
 
 ## 👨‍🎓 Education
 
-* *2020.09 - 2024.06 (now)*, Undergraduate, Xidian University, Xi'an, China.
-
+* *2020.09 - 2024.06*, Undergraduate, Xidian University, Xi'an, China.
+* *2024.07 - now*, Master, University of Science and Technology of China, HeFei, China.
   
 ## 👨‍💻 Internships
 
- * *2023.4 -* , **IPIU Lab,Xidian University.** The research direction is **remote sensing image processing.** My mentor is **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)**.
+ * *2023.04 -2024.07* , **IPIU Lab,Xidian University.** The research direction is **remote sensing image processing.** My supervisor is **[Dr. Junpeng Zhang](https://faculty.xidian.edu.cn/junpengzhang/zh_CN/index.htm)**.
 
 ## 📰 News
 
@@ -47,7 +46,7 @@ redirect_from:
  * *None*
 
 ## 🏅 Honors and Awards
-
+ * *2024.05*, The **Graduate scholarship**.
  * *2023.12*, The **Goodix Technology Scholarship for undergraduates** in the 2022-2023 academic year.
  * *2023.12*, The **outstanding student model of Xidian University** in the 2022-2023 academic year.  
  * *2023.12*, The **National Scholarship for undergraduates** in the 2022-2023 academic year.  
