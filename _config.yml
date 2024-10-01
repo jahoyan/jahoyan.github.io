@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiahao Yan (闫家浩)"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at Xidian University. Focusing on machine learning, computer graphics and computer vision especially 3D vision."
-  location         : "Xi'an, China"
+  bio              : "Master student at University of Science and Technology of China(USTC). Focusing on visual signal generation, representation, processing and coding."
+  location         : "Hefei, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "jiahaoyan@stu.xidian.edu.cn"
+  email            : "jiahaoyan@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
