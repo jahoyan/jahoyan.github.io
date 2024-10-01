@@ -19,7 +19,7 @@ Currently I'm working in **Intelligent Media Computing Lab (IMCL)** with my Mast
 
 ## 👨‍🎓 Education
 
-* *2024.07 - now*, Master, University of Science and Technology of China, HeFei, China.
+* *2024.07 - now*, Master, University of Science and Technology of China, Hefei, China.
 * *2020.09 - 2024.06*, Undergraduate, Xidian University, Xi'an, China.
 
 ## 👨‍💻 Internships
