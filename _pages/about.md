@@ -10,9 +10,9 @@ redirect_from:
 
 ## 🧑 Personal profile
 
-I'm currently pursuing the M.E. degree at University of Science and Technology of China. My research interests are **machine learning and computer vision especially 3D vision**.
+I'm currently pursuing the M.E. degree at University of Science and Technology of China. My research interests focus on **investigating artificial intelligence technique for advanced visual signal generation, representation, processing and coding**.
 
- Currently I'm working on **Large-scale 3D scene reconstruction** with my Master supervisor **[Prof. Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)** at University of Science and Technology of China. 
+Currently I'm working in **Intelligent Media Computing Lab (IMCL)** with my Master supervisor **[Prof. Zhibo Chen](https://faculty.ustc.edu.cn/chenzhibo)** at University of Science and Technology of China. 
 
  If you are interested in discussing with me, feel free to drop me an email.   
  **Email:<jiahaoyan@mail.ustc.edu.cn>**
