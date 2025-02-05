@@ -43,7 +43,7 @@ Currently I'm working in **Intelligent Media Computing Lab (IMCL)** with my Mast
 
 ## 🌞 Professional Services
 
- * *None*
+ * *2025.2-*,Teaching assistant for undergraduate pecialized course *Signals and systems A* of USTC.
 
 ## 🏅 Honors and Awards
  * *2024.05*, The **Graduate scholarship**.
